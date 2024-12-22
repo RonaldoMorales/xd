@@ -1,0 +1,6 @@
+@testeo_HostAddress = http://localhost:5191
+
+GET {{testeo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
